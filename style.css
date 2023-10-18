@@ -1,0 +1,23 @@
+
+body{
+    background-color: azure;
+    margine: 10px;
+    
+
+
+}
+.box{
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 100px;
+    font size: 100px;
+}
+.container{
+    display: grid;
+    grid-template-rows: repeat(3, 100px)
+    ;
+
+}
+
+
+}
