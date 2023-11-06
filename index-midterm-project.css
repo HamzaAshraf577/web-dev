@@ -1,0 +1,89 @@
+body{
+    background-image: url(login_background_mobile.jpg);
+    
+    background-size: cover;
+
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.child-container{
+    margine: 10px;
+
+}
+
+
+label{
+    display:inline-block;
+    width: 80px;
+    
+   
+    font-weight: bold;
+    
+}
+input[type="text"]
+input[type="password"]
+select{
+    width:350px;
+    padding: 20px;
+    
+    border: 1px solid #ccc;
+
+}
+button1{
+    line-height: 48px;
+    display:block ;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: top;
+    background-color: #009de0;
+    border: color #008bc7;
+    color: #ffffff;
+    height: 3rem;
+    margin: 0;
+    margin-left: 27%;
+    cursor: pointer;
+    width: 180px;
+    height: 50px;
+    
+    }
+
+button2{
+    line-height: 48px;
+    display:block ;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: top;
+    color: #000;
+    border-radius: ;
+    background-color: #f7f7f7;
+    border-color: rgba(100,114,123,0.96);
+    text-shadow: none;
+    margin-left: 27%;
+    width: 180px;
+    
+
+
+}
+button:hover{
+    background-color:darkblue ;}
+    
+
+
+
+
+
