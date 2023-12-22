@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="file.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="A">
+            <img src="" alt="image">
+            <p class="A1"> Home &nbsp; About us &nbsp; Services &nbsp; Contact </p>
+
+        </div>
+        <div class="B">
+            <img src=""
+
+        </div>
+    </body>

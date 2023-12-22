@@ -1,0 +1,61 @@
+body{
+    height: 95vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto 1fr;
+    grid-gap: 10px;
+    color:black;
+    font-size: 2em;
+
+}
+header{
+    background-color:rgb(247, 199, 123);
+    text-align: center;
+    padding: 2em;
+
+}
+main{
+    background-color: rgb(216, 169, 200);
+    text-align: center;
+    padding: 2em;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+    
+
+}
+footer{
+    background-color: rgb(189, 127, 255);
+    text-align: center;
+    padding: 10px;
+
+}
+.boxa{
+    background-color: rgb(94, 36, 155)
+    padding: 2em;
+    height: 100px;
+    width: 199px;
+
+
+}
+.boxb{
+    background-color: rgb(48, 56, 52);
+    padding: 2em;
+
+}
+.boxc{
+    background-color: rgb(119, 66, 101);
+    padding: 2em;
+}
+.boxd{
+    background-color: rgb(58, 108, 108);
+    padding: 2em;
+}
+.boxe{
+    background-color: rgb(75, 145, 92);
+    padding: 2em;
+}
+.boxf{
+    background-color: rgb(132, 198, 198);
+    padding: 2em;
+}
